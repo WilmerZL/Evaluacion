@@ -18,5 +18,4 @@
     <img src="https://github.com/user-attachments/assets/62482fff-d3b5-46d1-a171-c4f323899aa0" alt="Screenshot 5" width="25%">
     Si le damos en HTML nos lleva a una pagina para visualizar el texto y leerlo
     <img src="https://github.com/user-attachments/assets/31f1be1f-e4de-455d-9ebc-08faaf6b96e0" alt="Screenshot 6" width="25%">
-
 </p>
