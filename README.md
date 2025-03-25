@@ -39,6 +39,7 @@
 ### 🌐 Visualización del artículo en HTML
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b43b431a-7888-4c7e-811d-fb0872b17dd4" alt="Botón PDF" width="30%" />
   <img src="https://github.com/user-attachments/assets/31f1be1f-e4de-455d-9ebc-08faaf6b96e0" alt="Visualización HTML" width="30%" />
 </p>
 
